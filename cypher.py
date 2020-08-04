@@ -175,6 +175,7 @@ class CypherClass:
 		print(self.encoder_dict)
 		print(self.decoder_dict)
 		
+	'''
 test=CypherClass("Galladum","Galladum_text.txt")
 test.create_cypher_pair()
 test.create_cypher_dicts()
@@ -184,4 +185,4 @@ test.decode()
 test.print_files()
 test.test_decoder()
 
-		
+		'''
